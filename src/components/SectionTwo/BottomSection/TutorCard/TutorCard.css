@@ -1,0 +1,48 @@
+.profile-card{
+	display: grid;
+	grid-template-columns: 0.5fr 3fr 0.5fr;
+    grid-gap: 8px;
+    border-radius: 10px;
+    background-color: #f7f8f7;
+    padding: 10px;
+}
+
+.small-photo{
+	width: 30px;
+	height: 30px;
+	border-radius: 30%;
+	object-fit: cover;
+	margin:0;
+	padding: 0;
+}
+
+.small-name{
+	color: black;
+	font-weight: bold;
+	font-size: 13px;
+	margin:0;
+	padding: 0;
+}
+
+.small-college{
+	font-size: 10px;
+	color: black;
+	grid-column: 2/3;
+	grid-row:1/2;
+	margin:0;
+	padding: 0;
+}
+
+.icon-div{
+	width: 30px;
+	height: 30px;
+	border-radius: 50%;
+	background-color: white;
+	margin:0;
+    padding: 0;
+    border-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+

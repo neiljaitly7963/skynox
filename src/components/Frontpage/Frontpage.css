@@ -1,0 +1,6 @@
+.frontpage-grid{
+    display: grid;
+    grid-template-columns: 0.4fr 0.7fr 0.5fr;
+    height: 100vh;
+    grid-gap: 50px;
+}

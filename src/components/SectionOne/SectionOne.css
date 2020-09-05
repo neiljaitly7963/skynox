@@ -1,0 +1,50 @@
+
+
+.menue-flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.menue-box{
+    margin-top: 100px;
+    background-color: #f8f9f8;
+    border-radius: 15px;
+    padding: 20px;
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr 1fr;
+    grid-gap: 10px;
+    padding-right: 100px;
+}
+
+.updated-course{
+    background-color: #f8f9f8;
+    border-radius: 15px;
+}
+
+.menue-grid{
+    display: grid;
+    grid-template-rows: 1fr 0.3fr;
+    grid-gap: 30px;
+}
+
+.small-name-black{
+	color: black;
+	font-weight: bold;
+	font-size: 13px;
+	margin:0;
+	padding: 0;
+}
+
+.small-college-black{
+	font-size: 10px;
+	color: black;
+	grid-column: 2/3;
+	grid-row:1/2;
+	margin:0;
+	padding: 0;
+}
+
+.main-title{
+    text-align: center;
+}

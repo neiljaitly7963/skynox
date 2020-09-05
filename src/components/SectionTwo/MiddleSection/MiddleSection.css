@@ -1,0 +1,11 @@
+.middle{
+    display: grid;
+    grid-template-rows: 0.15fr 1fr;
+    padding: 10px;
+    height: 100%;
+}
+
+.card-section{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}

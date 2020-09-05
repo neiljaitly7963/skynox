@@ -1,0 +1,41 @@
+.streaming{
+    display: grid;
+    grid-template-rows: 0.3fr 1fr;
+    padding: 10px;
+    height: 100%;
+}
+
+.heading{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+span{
+    margin: 5px;
+}
+
+.content{
+    display: grid;
+    grid-template-columns: repeat(9, 1fr);
+}
+
+.streamers{
+    border-radius: 40%;
+    width: 55px;
+    height: 55px;
+    margin: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border:2px solid #e55f3d;
+}
+
+.big-photo{
+	width: 45px;
+	height: 45px;
+	border-radius: 40%;
+	object-fit: cover;
+	margin:0;
+	padding: 0;
+}

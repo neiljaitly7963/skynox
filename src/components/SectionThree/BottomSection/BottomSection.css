@@ -1,0 +1,19 @@
+.bottom-card-three{
+  padding-top: 18px;
+  padding-bottom: 1px;
+  height: 100%;
+  border-radius: 20px;
+
+    background-image: linear-gradient(
+      rgba(0, 0, 0, 0.45), 
+      rgba(0, 0, 0, 0.9)
+    ), url(./card1.svg);
+    background-size: cover;
+
+}
+
+.mar{
+  margin-top: 20px;
+  margin-left: 10px;
+  margin-right: 10px;
+}

@@ -1,0 +1,12 @@
+.tutor-card-grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    grid-gap: 5px;
+    margin-bottom: 30px;
+}
+
+
+.add-mar{
+    padding-top: 20px;
+}
