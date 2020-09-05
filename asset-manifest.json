@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/skynox/static/css/main.eef23b5d.chunk.css",
+    "main.js": "/skynox/static/js/main.c12c7daf.chunk.js",
+    "main.js.map": "/skynox/static/js/main.c12c7daf.chunk.js.map",
+    "runtime-main.js": "/skynox/static/js/runtime-main.8d84bd84.js",
+    "runtime-main.js.map": "/skynox/static/js/runtime-main.8d84bd84.js.map",
+    "static/js/2.8618134b.chunk.js": "/skynox/static/js/2.8618134b.chunk.js",
+    "static/js/2.8618134b.chunk.js.map": "/skynox/static/js/2.8618134b.chunk.js.map",
+    "index.html": "/skynox/index.html",
+    "precache-manifest.fb4c15a0853be6636d573942d0e0831e.js": "/skynox/precache-manifest.fb4c15a0853be6636d573942d0e0831e.js",
+    "service-worker.js": "/skynox/service-worker.js",
+    "static/css/main.eef23b5d.chunk.css.map": "/skynox/static/css/main.eef23b5d.chunk.css.map",
+    "static/js/2.8618134b.chunk.js.LICENSE.txt": "/skynox/static/js/2.8618134b.chunk.js.LICENSE.txt",
+    "static/media/BottomSection.css": "/skynox/static/media/card1.dd633c43.svg",
+    "static/media/home.svg": "/skynox/static/media/home.16110f7f.svg",
+    "static/media/logo.svg": "/skynox/static/media/logo.5d5d9eef.svg",
+    "static/media/message.svg": "/skynox/static/media/message.3decbed9.svg",
+    "static/media/plus.svg": "/skynox/static/media/plus.33264c71.svg",
+    "static/media/search.svg": "/skynox/static/media/search.72ef3922.svg",
+    "static/media/settings.svg": "/skynox/static/media/settings.af5a9cf6.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d84bd84.js",
+    "static/js/2.8618134b.chunk.js",
+    "static/css/main.eef23b5d.chunk.css",
+    "static/js/main.c12c7daf.chunk.js"
+  ]
+}
